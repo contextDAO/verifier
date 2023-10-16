@@ -17,7 +17,7 @@ POLYGON_PROVIDER=
 Example:
 ```
 POLYGON_PROVIDER=https://polygon-mainnet.g.alchemy.com/v2/aaabbbccc
-``
+```
 
 ## Execute verifier
 
