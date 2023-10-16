@@ -6,6 +6,13 @@
 npm install
 ```
 
+## Set the environment vars
+
+Create a .env file in the project folder
+Set your polygon URL provider:
+
+POLYGON_PROVIDER=
+
 ## Execute verifier
 
 ```bash
