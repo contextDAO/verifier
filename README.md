@@ -9,7 +9,7 @@ npm install
 ## Execute verifier
 
 ```bash
-npx ts-node start {name}
+npx ts-node start.ts {name}
 ```
 
 Example: 
