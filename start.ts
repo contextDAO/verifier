@@ -81,7 +81,8 @@ const main = async (level1: string, level2: string) => {
   console.log(`BUILDING DATA FROM THE ARWEAVE TxIds`);
   console.log(`  > Name: ${fullName}`);
   console.log(`  > Data:`);
-  console.log(result.data);  
+  // console.log(result.data);  
+  console.dir(result.data,{depth:null})
 };
 
 
